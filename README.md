@@ -50,7 +50,7 @@ O alvo é calculado automaticamente. A navegação revisita as etapas registrada
 Baixe e extraia o repositório. No terminal, a partir da pasta principal:
 
 ```powershell
-cd "build web para executar"
+cd "builld web para executar"
 python servidor.py --port 8080
 ```
 
@@ -67,7 +67,7 @@ flutter pub get
 flutter run -d chrome
 ```
 
-Para recompilar, execute `flutter build web --release`. Os arquivos são gerados em **`build/web`**; atualize a pasta **`build web para executar`** após modificar o código.
+Para recompilar, execute `flutter build web --release`. Os arquivos são gerados em **`build/web`**; atualize a pasta **`builld web para executar`** após modificar o código.
 
 ## ✅ Conferência do exemplo
 
